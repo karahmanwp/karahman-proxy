@@ -1,7 +1,7 @@
 <?php
 // بيانات حسابك على Myfxbook
-$email = ''; // ضع إيميل حسابك
-$password = ''; // ضع كلمة مرور حسابك
+$email = 'wissam.karahman@gmail.com';
+$password = 'urf2h@sMk4LmeFS';
 
 // تسجيل الدخول إلى Myfxbook
 $login_url = "https://www.myfxbook.com/api/login.json?email=$email&password=$password";
